@@ -15,8 +15,7 @@ O objetivo deste site é apresentar quem eu sou, minhas características princip
 
 ## 📂 Arquitetura do Projeto
 
-Para fins de estudo e de manter o projeto com uma estrutura altamente organizada, os arquivos estão divididos rigorosamente em diretórios:
-- `/HTML` - Contém as estruturas das páginas (`index.html` e `Sobre Mim.html`).
+Para fins de estudo e de manter o projeto organizado, os arquivos adicionais estão divididos em diretórios:
 - `/CSS` - Arquivos de formatação visual.
 - `/JS` - Arquivos de scripts e interações.
 - `/Images` - Imagens, fotos de perfil e ícones visuais.
@@ -29,7 +28,7 @@ Para fins de estudo e de manter o projeto com uma estrutura altamente organizada
    git clone https://github.com/KxuePereira/Meu-Portifolio-IOS.git
    ```
 2. Abra a pasta raiz do projeto.
-3. Navegue até a pasta `HTML/` e abra o arquivo `index.html` diretamente em seu navegador favorito.
+3. Abra o arquivo `index.html` diretamente em seu navegador favorito.
 
 ## 📱 Contato e Redes
 
